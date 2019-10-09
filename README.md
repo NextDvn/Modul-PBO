@@ -43,3 +43,7 @@ Object: Sebuah program yang etrdiri atas method dan variabel.
 # Refleksi
 
 Dari materi PBO ini, dapat kita ketahui arti dan fungsi dari Class,Method,Object, dan Struktur Dasar Dari program Java.
+
+# Output Tugas Kelompok
+
+![Alt Text](https://github.com/NextDvn/Modul-PBO/blob/master/Capture8.PNG)
